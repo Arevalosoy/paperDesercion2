@@ -71,7 +71,7 @@ API/
 4. **Instalar las dependencias**:
 
    ```bash
-   pip install flask joblib pandas scikit-learn
+   pip install flask joblib pandas scikit-learn waitress
    ```
 
 ---
