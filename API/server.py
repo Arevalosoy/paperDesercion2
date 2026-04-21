@@ -1,7 +1,7 @@
 import os
 from waitress import serve
 # Cambia 'app' por el nombre de tu archivo principal si es distinto (ej. from main import app)
-from app import app 
+from api import app 
 
 if __name__ == '__main__':
     # IIS inyecta el puerto dinámico en esta variable de entorno. 
